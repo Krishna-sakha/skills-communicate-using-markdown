@@ -4,3 +4,9 @@
 
 ###### This is an `<h6>` header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+undefined
+function greet(name) {
+console.log("Hello, GitHub!");
+}
+greet('GitHub');
+undefined
